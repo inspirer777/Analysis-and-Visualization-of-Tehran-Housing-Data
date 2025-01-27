@@ -1,11 +1,14 @@
 # Analysis and Visualization of Tehran Housing Data
 
- part 1 
-- clear data 
- part 2 
+part 1 
+- clear data
+  
+part 2 
 - Exploration and Statistical Summary of Data
+
 part 3
 - Housing Price Analysis and Distribution Visualization
+
 part 4
 - **Analysis of Price per Square Meter in Tehran City and Tehran Suburbs**
 
